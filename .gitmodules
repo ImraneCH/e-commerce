@@ -1,0 +1,7 @@
+[submodule "ecommerce-frontend"]
+    path = ecommerce-frontend
+    url = git@github.com:ImraneCH/ecommerce-frontend.git
+
+[submodule "ecommerce-backend"]
+    path = ecommerce-backend
+    url = git@github.com:ImraneCH/ecommerce-backend.git
